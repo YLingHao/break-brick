@@ -1,0 +1,38 @@
+﻿  PauseState.cpp
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(132,54): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(132,54): warning C4244:         with
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(132,54): warning C4244:         [
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(132,54): warning C4244:             T=int
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(132,54): warning C4244:         ]
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(132,54): warning C4244:         and
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(132,54): warning C4244:         [
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(132,54): warning C4244:             T=float
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(132,54): warning C4244:         ]
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(131,54): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(131,54): warning C4244:         with
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(131,54): warning C4244:         [
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(131,54): warning C4244:             T=int
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(131,54): warning C4244:         ]
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(131,54): warning C4244:         and
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(131,54): warning C4244:         [
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(131,54): warning C4244:             T=float
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(131,54): warning C4244:         ]
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,58): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,58): warning C4244:         with
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,58): warning C4244:         [
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,58): warning C4244:             T=unsigned int
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,58): warning C4244:         ]
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,58): warning C4244:         and
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,58): warning C4244:         [
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,58): warning C4244:             T=float
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,58): warning C4244:         ]
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,44): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,44): warning C4244:         with
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,44): warning C4244:         [
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,44): warning C4244:             T=unsigned int
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,44): warning C4244:         ]
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,44): warning C4244:         and
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,44): warning C4244:         [
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,44): warning C4244:             T=float
+E:\Users\Administrator\source\repos\Project3\Project3\PauseState.cpp(152,44): warning C4244:         ]
+  Project3.vcxproj -> E:\Users\Administrator\source\repos\Project3\x64\Debug\Project3.exe
